@@ -6,6 +6,7 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Netlify:https://incandescent-mandazi-9d873c.netlify.app/
 
 
 Developing the frontend for my project was an insightful journey, where I used modern tools and frameworks to create an intuitive and interactive user interface. Here’s an overview of the challenges I faced and how I tackled them:
