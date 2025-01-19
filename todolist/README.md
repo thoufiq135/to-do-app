@@ -66,4 +66,4 @@ Deploying the frontend and ensuring smooth integration with the backend required
 Solution:
 
 Deployed the app on platforms like Netlify, configured redirects using the netlify.toml file, and ensured the frontend worked seamlessly with the backend.
-
+Netlify:incandescent-mandazi-9d873c.netlify.app
