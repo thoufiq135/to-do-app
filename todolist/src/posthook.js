@@ -1,6 +1,6 @@
 async function Usepost(da){
     try{
-        const response=await fetch("http://localhost:8000/",{
+        const response=await fetch("https://server-todo-list-170l.onrender.com/",{
             method:"POST",
             headers:{
                 "Content-Type":"application/json",

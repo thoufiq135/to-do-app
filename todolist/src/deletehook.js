@@ -1,7 +1,7 @@
 async function Usedelete(deletedata){
     // console.log("getting",deletedata)
     try{
-         const data= await fetch(`http://localhost:8000/${deletedata}`,{
+         const data= await fetch(`https://server-todo-list-170l.onrender.com/${deletedata}`,{
             method:"DELETE",
             headers:{
                 "Content-Type":"application/json",

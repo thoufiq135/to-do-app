@@ -1,7 +1,7 @@
 async function Useput(data){
     const{original,updated}=data
     try{
-        const response=await fetch(`http://localhost:8000/${original}`,{
+        const response=await fetch(`https://server-todo-list-170l.onrender.com/${original}`,{
             method:"PUT",
             headers:{
                 "Content-type":"application/json",
