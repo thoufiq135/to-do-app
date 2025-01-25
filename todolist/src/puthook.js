@@ -14,6 +14,7 @@ async function Useput(data){
         return result
     }else{
         console.log("error=",response)
+        return response
     }
     }catch(e){
         console.log(e.message)
