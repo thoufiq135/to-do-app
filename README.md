@@ -1,1 +1,1 @@
-netlify:incandescent-mandazi-9d873c.netlify.app
+https://melodious-custard-faa635.netlify.app/
